@@ -3,14 +3,14 @@ Este programa es una solución para la empresa de seguros TK-U, que busca automa
 
 1. La persona a asegurar tiene que ser mayor de edad, por lo cual no se consideran los casos en los cuales esto no sea verdad.
 2. Se tiene un plan base, al cual se le pueden aplicar recargos extra dependiendo de las condiciones del asegurado. Las condiciones que causan recargos son las siguientes:
-a. Dependiendo de la edad del asegurado
-b. Dependiendo de si el asegurado está casado o no y
+- Dependiendo de la edad del asegurado
+- Dependiendo de si el asegurado está casado o no y
 dependiendo también de la edad del esposo/a del asegurado
-c. Dependiendo de la cantidad de hijos o hijas que tenga el asegurado.
+- Dependiendo de la cantidad de hijos o hijas que tenga el asegurado.
 3. Para el primer y el segundo punto, son recargos basados en los rangos de edades:
-a. Si tienen de 18 a 24 años, se les hará un recargo del 10% del precio base.
-b. Si tienen de 25 a 49 años, se les hará un recargo del 20% del precio base.
-c. Si tienen 50 años o más, se les hará un recargo del 30% del precio base.
+- Si tienen de 18 a 24 años, se les hará un recargo del 10% del precio base.
+- Si tienen de 25 a 49 años, se les hará un recargo del 20% del precio base.
+- Si tienen 50 años o más, se les hará un recargo del 30% del precio base.
 
 
 ## Cómo utilizar el programa
