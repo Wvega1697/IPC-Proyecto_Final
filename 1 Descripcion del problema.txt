@@ -1,0 +1,15 @@
+El problema que se está presentando en la empresa de seguros TK-U es que las cotizaciones se realizan de forma manual, lo cual causa una gran pérdida de tiempo y solo se generan como máximo 50 cotizaciones al día.
+Esto está afectando la entrega de cotizaciones y posiblemente la captación de nuevos clientes.
+
+Los casos que se están considerando para cambiar el valor de la cotización son:
+
+- Edad del asegurado: se aplicarán recargos basados en rangos de edad. 
+Si el asegurado tiene entre 18 y 24 años, se aplicará un recargo del 10% del precio base; si tiene entre 25 y 49 años, se aplicará un recargo del 20% del precio base; y si tiene 50 años o más, se aplicará un recargo del 30% del precio base.
+
+- Estado civil del asegurado: si el asegurado está casado, se considerará la edad de su cónyuge para aplicar un recargo extra.
+
+- Cantidad de hijos del asegurado: se aplicará un recargo extra dependiendo de la cantidad de hijos que tenga el asegurado.
+
+En resumen, se está considerando la edad del asegurado, su estado civil y la cantidad de hijos para aplicar recargos extra al precio base de la cotización.
+Además, se exige que la persona a asegurar sea mayor de edad para poder realizar la cotización.
+Con estos requerimientos se busca automatizar el proceso de cotización y reducir el tiempo necesario para generar cotizaciones.
