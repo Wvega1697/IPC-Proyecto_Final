@@ -1,0 +1,13 @@
+Este programa de cotización de seguros realiza los siguientes pasos:
+
+01. Define las variables útiles, como el precio base de la cotización y los valores de los recargos por edad, estado civil y cantidad de hijos.
+02. Pide al usuario que ingrese su nombre, edad, estado civil y si tiene hijos.
+03. Si el usuario está casado, se le pide que ingrese la edad de su cónyuge.
+04. Convierte la edad y la edad del cónyuge a números enteros.
+05. Si el usuario tiene hijos, se le pide que ingrese la cantidad de hijos y se convierte a un número entero.
+06. Calcula el recargo total basado en la edad del asegurado, la edad del cónyuge y la cantidad de hijos.
+07. Calcula los recargos extra basados en la cantidad de propiedades y los ingresos del asegurado.
+08. Calcula el precio final sumando el precio base, el recargo total y los recargos extra.
+09. Muestra un mensaje con el nombre del asegurado, el recargo total y el precio final.
+10. Pide al usuario si desea realizar otra cotización.
+11. Si el usuario ingresa "Salir", el programa termina. De lo contrario, el programa vuelve al paso 2.
